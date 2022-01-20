@@ -1,0 +1,38 @@
+body{
+    background-color: #252a37;
+}
+
+header{
+    min-height: 100px;
+}
+header nav{
+    min-height: 100px;
+}
+
+.laravel_logo{
+    max-width: 100px;
+    min-height: 100px;
+    padding: 1rem;
+}
+
+.welcome_page{
+    color: #dc3545;
+    text-align: center;
+}
+
+.welcome_page a{
+    color: #dc3545;
+}
+.welcome_page a:hover{
+    color: orange;
+}
+
+.contacts{
+    color: #ffff;
+}
+
+.email_list{
+    list-style: none;
+    color: #dc3545;
+    padding: unset;
+}
